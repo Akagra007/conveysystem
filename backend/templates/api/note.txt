@@ -1,0 +1,2 @@
+Not Used
++REST framework's login and logout views.
